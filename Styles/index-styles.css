@@ -22,13 +22,14 @@ h1{
     font-size: 48px;
     font-weight: 800;
     margin-top: -50px;
+    cursor: pointer;
 }
 
 a{
     text-decoration: none;
     font-size: 1.6rem;
     color: #fff;
-    background-color: #fff;
+    background-color: rgb(16, 153, 163);
     border-radius: 5px;
     padding: 10px;
     box-shadow: 7px 7px 0px #000;
